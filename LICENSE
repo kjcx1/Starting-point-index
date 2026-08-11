@@ -1,0 +1,301 @@
+NCL非商业开放许可证(NCL)1.1.45
+
+官方网站：http://ncl.l2.ink
+电报组：https://t.me/NCL_INT
+
+NCL是一个通用许可框架，并未规定任何具体的管辖法律。强烈建议作者通过LICENSE-ADD补充适用法律和管辖权条款；否则，跨境或跨管辖权争议可能面临法律不确定性。
+
+本许可证仅适用于以下类型的工程：
+-源代码包
+- Video works
+
+本许可证不适用于以下类型的工程：
+-可执行程序
+-软件安装程序
+-二进制文件和固件
+- Audio files
+-文档文件
+- Image files
+-任何形式的实物产品或离线分销
+
+将许可证文件嵌入到可执行文件、安装程序或其他禁止的文件格式中不被视为合规使用，将被视为无效。
+
+作者要求：
+1.要将此许可证应用于您的作品，您必须将完整的LICENSE文件放入源代码档案的根目录中，或将许可证通知集成到视频作品的开头(可以放在任何法律要求的监管通知之后)。
+2.您必须保留本许可证的全文而不作任何修改。
+3.不得删除或遮蔽原作者的版权声明。
+4.如果分发修改的版本，则必须清楚地说明所做的修改。
+5.作品的任何分发必须包括本许可证和所有版权声明。
+6.未经明确许可，您不得使用原作者的名称、商标或品牌来支持或推广您的衍生作品。
+7.您对因使用或分发作品而产生的任何法律索赔负全部责任。
+
+反规避
+严禁通过技术手段规避本许可证条款的任何企图。这包括但不限于：代码混淆、变量或函数重命名、提取和重新组装作品的部分、将作品翻译成其他语言或格式，或任何其他主要目的是隐藏作品来源或逃避遵守本许可的修改。此类行为构成重大违约。
+
+原作者联系信息要求：
+-原始作者必须提供有效的联系信息。
+-对于源代码包：联系信息必须放在一个名为CONTACT.MD的文件中，位于源代码档案的根目录。
+-对于视频作品：联系信息必须清晰地显示在视频本身中(例如在视频结尾，或在视频描述部分)。
+-如果原作者未提供联系信息，则许可证仍然有效，但自动归类为“严格非商业”状态，即：
+*仅原作者保留商业权利
+*第三方不得申请商业授权(因为无法联系作者)
+*该作品被有效地视为“除原作者外，任何人不得作任何商业用途”
+
+原创作者权利
+原作者保留对作品的完全和排他的商业权利。原作者可以不受限制地出于商业目的使用、许可或货币化作品。任何第三方(包括但不限于衍生作品、修改版本或后续贡献者)寻求将作品用于商业目的必须获得原作者的明确书面授权。本要求适用于本工作的所有分叉、衍生产品和后续版本，无论谁创造了他们。
+
+商业授权书格式
+出于本许可证的目的，“明确的书面授权”必须采用文件化、可验证的书面形式。可接受的形式包括签署的文档、电子邮件或即时消息应用程序的文本消息。语音呼叫、口头协议、默示同意或含糊表达不构成有效授权。
+
+多个作者
+如果作品是由多个作者创作的，所有作者共同保留专有的商业权利。未经所有其他作者的明确书面同意，任何一位作者不得授予商业授权。版权转让时，受让人承担转让方在本许可证项下的所有权利和义务。
+
+Contributor Rights
+- A contributor who creates new content (such as additional code, libraries, or independently created modules) may license their own new content under a license of their choice, as provided for in the Copyleft Requirement section.
+- The contributor may also modify the CONTACT.md file to add their own contact information, provided that:
+  * The original author's contact information is NOT removed or altered
+  * The contributor's contact information is clearly separated and distinguishable from the original author's information (e.g., a separate section labeled "Contributor Contact" or a separate file)
+- The contributor may also add their own additional terms via LICENSE-ADD, as provided for in the Additional Terms section, provided that these terms do not conflict with the core terms of this license.
+- The contributor's modifications to the CONTACT.md file or LICENSE-ADD file do NOT grant them commercial rights to the original author's work. Any commercial use of the original work or its derivatives still requires the original author's explicit written authorization.
+
+Special Provisions for Video Works:
+- When distributing the complete video work as a whole, the license notice must be included at the beginning of the video.
+- When using individual elements extracted from the video work (such as clips, audio snippets, visual effects, or other separable components), the licensee is NOT required to include the full license notice, provided that such elements are used in a new, derivative work and are not used to replicate or redistribute the original video work in its entirety.
+- However, any such extracted elements must still comply with all other terms of this license, including but not limited to the prohibition on commercial use and the attribution requirement.
+- Attribution must be clearly provided in one of the following forms:
+  * In a video, attribution must appear as a text overlay within the video itself (such as bottom or corner text) or in a prominent section of the video description, clearly stating the original project name or the original author's name.
+  * If attribution cannot be reasonably displayed in the above manner due to platform restrictions (such as short-form video platforms with limited description space), the licensee must include the attribution in the video content itself as a brief text notation.
+  * The attribution must be sufficient for a reasonable viewer to identify the original work and its author.
+
+Special Provisions for Source Code Packages:
+- When distributing source code packages, the complete LICENSE file must be included in the root directory of the archive.
+- The licensee must not remove, modify, or obscure the license file in any way.
+- Any distribution of source code packages without the complete LICENSE file is a violation of this license.
+
+This code is publicly accessible. Commercial use is prohibited without the explicit written authorization of the original author.
+
+Anyone may view, copy, modify, and distribute. Commercial use is prohibited without the explicit written authorization of the original author. The original author retains full control over the commercial use of the work.
+
+Core Terms
+This license permits viewing, copying, modifying, and distributing the source code. Commercial use is strictly prohibited without the explicit written authorization of the original author.
+
+Granted Rights
+- Viewing and copying
+- Modification
+- Distribution (free of charge only)
+- Private use
+All are permitted.
+
+Prohibited Conduct
+Any commercial activity or profit-making use is strictly prohibited unless the original author provides explicit written authorization. This includes, but is not limited to:
+- Selling, licensing, or sublicensing the code for a fee
+- Incorporating the code into a commercial product or service
+- Using the code to generate revenue directly or indirectly
+- Using the code to train or develop commercial AI, machine learning models, or large language models
+- Using the code in any automated service, SaaS platform, or cloud offering that generates revenue
+- Using the code internally within a for-profit organization to support revenue-generating activities
+- Charging for access to the work, including paywalled documentation, paid support, or training services centered on the work
+- Monetizing the work through advertising or sponsorships
+- Bundling the work with paid products or services
+
+Definition of Commercial Use
+For the purposes of this license, "Commercial Use" means any use primarily intended for or directed toward commercial advantage or monetary compensation. This includes, but is not limited to:
+- Direct sales or licensing of the software
+- Providing the software as a paid service (SaaS, API, hosting)
+- Using the software internally to support revenue-generating activities
+- Advertising or sponsorship revenue derived from the software
+- Bundling the software with paid products or services
+- Charging for access, training, consulting, or paid support services
+- Data monetization derived from the software
+
+The following are NOT considered Commercial Use:
+- Personal learning and education
+- Academic research at non-profit institutions
+- Open source contributions without monetary compensation
+- Content creation (teaching, streaming, educational materials) even if it generates incidental revenue
+- Charging only for the actual, verifiable cost of physical distribution media (no markup or indirect monetization)
+
+Copyleft Requirement
+Any modified version of the work must be released under the same license (NCL) or a license that is fully compatible with NCL's non-commercial terms. For the avoidance of doubt:
+- Licenses that permit commercial use (including but not limited to GPL, MIT, Apache, BSD, and MPL) are NOT compatible with NCL.
+- Modified works may only be distributed under NCL or another license that contains the same non-commercial restrictions.
+- If the modifier adds their own new content (such as additional code, libraries, or independently created modules), those additions may be released under a different license of the modifier's choice, provided that:
+  - The original NCL-licensed portion remains under NCL
+  - The NCL license text itself is not modified
+  - The derivative work as a whole clearly indicates which parts are governed by NCL and which parts are governed by other licenses
+
+Attribution Requirement
+Modified versions must retain the original author's attribution solely within the source code. This attribution must remain intact and clearly visible in all source code files. Additionally, any public display of the work must clearly indicate that it is based on work originally created by the original author and licensed under NCL.
+
+Additional Terms
+The licensee may add their own additional terms, which must be placed separately in a LICENSE-ADD file and must not conflict with the core terms. These additional terms may include, but are not limited to:
+- Warranty disclaimers
+- Limitation of liability
+- Additional permissions that do not contradict the core terms
+- Choice of law and jurisdiction clauses
+
+License Termination
+Any violation results in automatic termination of this license, effective immediately. Upon termination, the licensee must cease all use, distribution, and modification of the code. The provisions regarding disclaimer of warranties, limitation of liability, and indemnification shall survive termination.
+
+Enforcement
+License enforcement and legal remedies shall be undertaken solely by the original author. The original author must independently handle any breach of contract, including but not limited to pursuing legal action, retaining legal counsel, and bearing all associated costs. The license drafter and the NCL Team assume no responsibility for enforcement, legal action, or any disputes arising from the use of this code.
+
+Disclaimer of Warranties
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT, ARISING IN ANY WAY OUT OF THE USE OF THIS CODE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The original author shall not be liable for any claims, damages, or other liabilities arising from the use of this license or the code. The code is provided "as is", without warranty of any kind. Use at your own risk.
+
+Update Notice
+This license may be revised from time to time without prior notice. After a new version is released, the old version remains valid. The terms of the new license apply only to projects adopting the new version and do not retroactively apply to projects using the old version. Authors are strongly advised to add their own additional terms to avoid gaps in protection, or to promptly update to the latest license version to mitigate enforcement risks.
+
+================================================================================
+
+NCL 非商业开放许可证 (NCL) 1.1.45
+
+官方网站：http://ncl.l2.ink
+电报群：https://t.me/NCL_INT
+
+NCL 为通用许可证框架，未预设适用法律。强烈建议作者通过 LICENSE-ADD 补充管辖权条款，否则跨国/跨地区纠纷时可能面临法律适用争议。
+
+本许可证仅适用于以下类型的作品：
+- 源码压缩包
+- 视频作品
+
+本许可证不适用于以下类型的作品：
+- 可执行程序
+- 软件安装包
+- 二进制文件及固件
+- 音频文件
+- 文档文件
+- 图片文件
+- 任何形式的实物产品或线下分发
+
+将许可证文件塞入可执行程序、安装包或其他禁止使用的文件格式不属于合规使用，视为无效。
+
+作者使用要求：
+1. 要在你的作品中使用本许可证，必须将完整的 LICENSE 文件置于源码压缩包根目录，或将许可证声明整合到视频作品片头（可后置于国家要求信息之后）。
+2. 必须完整保留本许可证文本，不得修改。
+3. 不得移除或遮挡原作者的版权声明。
+4. 如分发修改版本，必须明确说明所做修改。
+5. 任何作品分发都必须包含本许可证及所有版权声明。
+6. 未经明确许可，不得使用原作者名称、商标或品牌标识来推广你的衍生作品。
+7. 你需自行承担因使用或分发本作品而产生的任何法律责任。
+
+反规避禁止
+任何通过技术手段规避本许可证条款的行为均被严格禁止。包括但不限于：代码混淆、变量或函数重命名、提取并重新拼接作品部分、将作品翻译为其他语言或格式，或任何以掩盖作品来源或逃避遵守本许可证为主要目的的修改。此类行为构成实质性违约。
+
+原创作者联系方式要求：
+- 原创作者必须提供有效的联系方式。
+- 源码压缩包：联系方式必须放在源码压缩包根目录下的 CONTACT.md 文件中。
+- 视频作品：联系方式必须在视频中清晰展示（如视频结尾处，或视频描述区）。
+- 如果原创作者未提供联系方式，许可证仍然有效，但自动归类为"严格非商业"状态：
+  * 仅限原创作者保留商业权利
+  * 任何第三方不得申请商业授权（因无法联系作者）
+  * 该作品实质上等同于"除原创作者外禁止任何人商业使用"
+
+原创作者权利
+原创作者保留对作品的完全且独占的商业使用权。原创作者可不受限制地将作品用于商业目的、授权他人使用或进行变现。任何第三方（包括但不限于衍生作品、修改版本或后续贡献者）如需将作品用于商业用途，必须获得原创作者的明确书面授权。此要求适用于所有分支、衍生及后续版本，无论由谁创建。
+
+商用授权形式
+就本许可证而言，"明确书面授权"必须是可记录、可验证的书面形式。可接受的形式包括签署的文件、电子邮件或即时通讯应用中的文字消息。语音通话、口头协议、暗示性默许或含糊表达均不构成有效授权。
+
+多作者
+若作品由多名作者共同创作，所有作者共同保留独占的商业权利。任何单一作者未经其他全部作者明确书面同意，不得授予商业授权。如作品版权发生转让，受让方自动承继转让方在本许可证项下的全部权利与义务。
+
+贡献者权利
+- 创建了新增内容（如额外代码、库或独立创建的模块）的贡献者，可按照 Copyleft 要求部分的条款，自行选择许可证发布其新增内容。
+- 贡献者也可修改 CONTACT.md 文件以添加自己的联系方式，但必须满足以下条件：
+  * 原创作者的联系方式不得移除或修改
+  * 贡献者的联系方式必须与原创作者的信息清晰分隔且可区分（如单独标注"贡献者联系方式"部分，或使用单独的文件）
+- 贡献者也可按照附加条款部分的规定，通过 LICENSE-ADD 添加自己的附加条款，前提是这些条款不与本许可证的核心条款冲突。
+- 贡献者对 CONTACT.md 文件或 LICENSE-ADD 文件的修改，并不授予其对原创作者作品的商业使用权。对原创作品或其衍生作品的任何商业使用，仍需获得原创作者的明确书面授权。
+
+视频作品特别规定：
+- 完整分发视频作品时，必须在视频开头包含许可证声明。
+- 从视频作品中提取单个元素使用时（如片段、音频片段、视觉效果或其他可拆分组件），被许可人不需包含完整的许可证声明，前提是这些元素用于新的衍生作品，且不以复制或再分发原视频作品整体为目的。
+- 但提取出的元素仍须遵守本许可证的所有其他条款，包括但不限于禁止商业使用和署名要求。
+- 署名必须以以下方式清晰呈现：
+  * 在视频中，署名必须以文字叠加的形式出现在视频画面内（如底部或角落文字），或在视频描述区的显著位置，清楚注明原项目名称或原作者名称。
+  * 如因平台限制（如短视频平台描述区字数受限）无法以上述方式合理展示署名，被许可人须在视频内容本身中以简短的文字标注形式包含署名。
+  * 署名必须足以让普通观众识别原作品及其作者。
+
+源码压缩包特别规定：
+-分发源码压缩包时，完整的许可证文件必须包含在压缩包根目录。
+- 被许可人不得以任何方式移除、修改或遮挡许可证文件。
+- 任何未包含完整 LICENSE 文件的源码压缩包分发行为均属违反本许可证。
+
+本代码公开可访问。未经原创作者明确书面授权，禁止商业使用。
+
+任何人都可以查看、复制、修改和分发。未经原创作者明确书面授权，禁止商业使用。原创作者保留对作品商业使用的完全控制权。
+
+核心条款
+本许可证允许查看、复制、修改和分发源代码。未经原创作者明确书面授权，严禁商业使用。
+
+授予的权利
+- 查看与复制
+- 修改
+- 分发（仅限免费分发）
+- 私人使用
+均允许。
+
+禁止行为
+任何商业行为或营利活动均严格禁止，除非原创作者明确书面授权。包括但不限于：
+- 将代码用于销售、许可或再许可并收取费用
+- 将代码整合到商业产品或服务中
+- 利用代码直接或间接产生收入
+- 将代码用于训练或开发商业用途的人工智能、机器学习模型或大语言模型
+- 将代码用于任何产生收入的自动化服务、SaaS平台或云服务
+- 在营利性组织内部使用代码支持创收活动
+- 对作品访问收费，包括付费文档、付费支持或基于作品的培训服务
+- 通过广告或赞助将作品变现
+- 将作品与付费产品或服务捆绑
+
+商业使用的定义
+为本许可证之目的，"商业使用"指任何主要旨在获取商业优势或金钱报酬的使用行为。包括但不限于：
+- 直接销售或授权软件
+-将软件作为付费服务提供(SaaS、API、托管）
+- 在组织内部使用软件以支持创收活动
+- 通过软件获取广告或赞助收入
+- 将软件与付费产品或服务捆绑
+- 收取访问费、培训费、咨询费或付费支持服务费
+- 基于软件的数据变现
+
+以下情形不被视为商业使用：
+- 个人学习和教育
+- 非营利机构的学术研究
+- 无金钱报酬的开源贡献
+- 内容创作（教学、流媒体、教育材料），即使产生附带收入
+- 仅收取物理分发介质的实际可验证成本（不得加价或间接变现）
+
+Copyleft 要求
+任何修改版本必须以本许可证（NCL）或与 NCL 非商业条款完全兼容的许可证发布。为明确起见：
+-允许商业使用的许可证（包括但不限于GPL、MIT、Apache、BSD、MPL)与NCL不兼容.
+-修改作品只能以NCL或其他包含相同非商业限制的许可证分发.
+- 如果修改者添加了自有新增内容（如额外代码、库或独立创建的模块），这些新增部分可以选择以修改者自行指定的许可证发布，但必须满足以下条件：
+-原有NCL许可部分仍保留NCL许可
+  - NCL 许可证文本本身不得修改
+  - 衍生作品整体必须清晰标明哪些部分受 NCL 管辖，哪些部分受其他许可证管辖
+
+署名要求
+修改版本必须保留原作者署名，仅限源代码中。该署名必须在所有源代码文件中保持完整且清晰可见。此外，任何公开展示作品的行为都必须明确标示该作品基于原作者的原创作品，且采用 NCL 许可。
+
+附加条款
+被许可人可添加自有附加条款，必须单独放在 LICENSE-ADD 文件中，不得与核心条款冲突。附加条款可包括但不限于：
+- 免责声明
+- 责任限制
+- 不与核心条款冲突的额外许可
+- 适用法律和管辖权条款
+
+授权终止
+违反即自动终止本授权，立即生效。授权终止后，被许可人必须停止对代码的一切使用、分发和修改。免责声明、责任限制和赔偿条款在终止后继续有效。
+
+维权说明
+许可证的执行及法律维权完全由原创作者自行负责。原创作者必须独立处理任何违约行为，包括但不限于提起法律诉讼、聘请法律顾问以及承担所有相关费用。许可证制定者及 NCL 团队不对任何执行、法律行动或因使用本代码而产生的任何纠纷承担任何责任。
+
+免责声明
+本代码按"原样"提供，不作任何明示或暗示的保证，包括但不限于适销性、特定用途适用性和非侵权性的保证。在任何情况下，版权持有者或贡献者均不对任何直接、间接、附带、特殊、惩罚性或后果性损害（包括但不限于替代商品或服务的采购；使用、数据或利润的损失；或业务中断）承担责任，无论其产生方式如何，也不论责任理论是合同、严格责任还是侵权，即使已被告知可能发生此类损害。
+
+原创作者不对因使用本许可证或代码而产生的任何索赔、损害或其他责任负责。本代码按"原样"提供，不作任何担保。使用风险自负。
+
+更新说明
+本许可证可能不定期修订，恕不另行通知。新版许可证发布后，旧版许可证继续有效。新版许可证的条款仅适用于采用新版许可证的项目，不追溯适用于使用旧版许可证的项目。强烈建议作者自行添加附加条款以避免保护缺失，或及时更新到最新许可证版本以防范维权风险。
