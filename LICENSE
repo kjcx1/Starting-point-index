@@ -1,54 +1,54 @@
-NCL非商业开放许可证(NCL)1.1.45
+NCL Non-Commercial Open License (NCL) 1.1.45
 
-官方网站：http://ncl.l2.ink
-电报组：https://t.me/NCL_INT
+Official Website: http://ncl.l2.ink
+Telegram Group: https://t.me/NCL_INT
 
-NCL是一个通用许可框架，并未规定任何具体的管辖法律。强烈建议作者通过LICENSE-ADD补充适用法律和管辖权条款；否则，跨境或跨管辖权争议可能面临法律不确定性。
+NCL is a general-purpose license framework and does not prescribe any specific governing law. Authors are strongly advised to supplement applicable law and jurisdiction clauses via LICENSE-ADD; otherwise, cross-border or cross-jurisdictional disputes may face legal uncertainty.
 
-本许可证仅适用于以下类型的工程：
--源代码包
+This license applies to the following types of works only:
+- Source code packages
 - Video works
 
-本许可证不适用于以下类型的工程：
--可执行程序
--软件安装程序
--二进制文件和固件
+This license does NOT apply to the following types of works:
+- Executable programs
+- Software installers
+- Binary files and firmware
 - Audio files
--文档文件
+- Document files
 - Image files
--任何形式的实物产品或离线分销
+- Physical products or offline distribution in any form
 
-将许可证文件嵌入到可执行文件、安装程序或其他禁止的文件格式中不被视为合规使用，将被视为无效。
+Embedding the license file into executables, installers, or other prohibited file formats is not considered compliant use and will be deemed invalid.
 
-作者要求：
-1.要将此许可证应用于您的作品，您必须将完整的LICENSE文件放入源代码档案的根目录中，或将许可证通知集成到视频作品的开头(可以放在任何法律要求的监管通知之后)。
-2.您必须保留本许可证的全文而不作任何修改。
-3.不得删除或遮蔽原作者的版权声明。
-4.如果分发修改的版本，则必须清楚地说明所做的修改。
-5.作品的任何分发必须包括本许可证和所有版权声明。
-6.未经明确许可，您不得使用原作者的名称、商标或品牌来支持或推广您的衍生作品。
-7.您对因使用或分发作品而产生的任何法律索赔负全部责任。
+Author Requirements:
+1. To apply this license to your work, you must place the complete LICENSE file in the root directory of your source code archive, or integrate the license notice into the beginning of your video work (may be placed after any legally required regulatory notices).
+2. You must retain the full text of this license without modification.
+3. You must not remove or obscure the copyright notice of the original author.
+4. If you distribute modified versions, you must clearly state the modifications made.
+5. Any distribution of the work must include this license and all copyright notices.
+6. You may not use the name, trademarks, or branding of the original author to endorse or promote your derivative work without explicit permission.
+7. You are solely responsible for any legal claims arising from your use or distribution of the work.
 
-反规避
-严禁通过技术手段规避本许可证条款的任何企图。这包括但不限于：代码混淆、变量或函数重命名、提取和重新组装作品的部分、将作品翻译成其他语言或格式，或任何其他主要目的是隐藏作品来源或逃避遵守本许可的修改。此类行为构成重大违约。
+Anti-Circumvention
+Any attempt to circumvent the terms of this license through technical means is strictly prohibited. This includes, but is not limited to: code obfuscation, variable or function renaming, extracting and reassembling portions of the work, translating the work into another language or format, or any other modification whose primary purpose is to conceal the origin of the work or evade compliance with this license. Such acts constitute a material breach.
 
-原作者联系信息要求：
--原始作者必须提供有效的联系信息。
--对于源代码包：联系信息必须放在一个名为CONTACT.MD的文件中，位于源代码档案的根目录。
--对于视频作品：联系信息必须清晰地显示在视频本身中(例如在视频结尾，或在视频描述部分)。
--如果原作者未提供联系信息，则许可证仍然有效，但自动归类为“严格非商业”状态，即：
-*仅原作者保留商业权利
-*第三方不得申请商业授权(因为无法联系作者)
-*该作品被有效地视为“除原作者外，任何人不得作任何商业用途”
+Original Author Contact Information Requirement:
+- The original author MUST provide valid contact information.
+- For source code packages: contact information MUST be placed in a file named CONTACT.md at the root of the source code archive.
+- For video works: contact information MUST be clearly displayed within the video itself (such as at the end of the video, or in the video description section).
+- If the original author does NOT provide contact information, the license remains valid but is automatically classified as "Strictly Non-Commercial" status, meaning:
+  * Only the original author retains commercial rights
+  * No third party may apply for commercial authorization (as there is no way to contact the author)
+  * The work is effectively treated as "No Commercial Use for Anyone Except the Original Author"
 
-原创作者权利
-原作者保留对作品的完全和排他的商业权利。原作者可以不受限制地出于商业目的使用、许可或货币化作品。任何第三方(包括但不限于衍生作品、修改版本或后续贡献者)寻求将作品用于商业目的必须获得原作者的明确书面授权。本要求适用于本工作的所有分叉、衍生产品和后续版本，无论谁创造了他们。
+Original Author Rights
+The original author retains full and exclusive commercial rights to the work. The original author may use, license, or monetize the work for commercial purposes without restriction. Any third party (including but not limited to derivative works, modified versions, or subsequent contributors) seeking to use the work for commercial purposes must obtain explicit written authorization from the original author. This requirement applies to all forks, derivatives, and subsequent versions of the work, regardless of who created them.
 
-商业授权书格式
-出于本许可证的目的，“明确的书面授权”必须采用文件化、可验证的书面形式。可接受的形式包括签署的文档、电子邮件或即时消息应用程序的文本消息。语音呼叫、口头协议、默示同意或含糊表达不构成有效授权。
+Form of Commercial Authorization
+For the purposes of this license, "explicit written authorization" must be in a documented, verifiable written form. Acceptable forms include signed documents, emails, or text messages from instant messaging applications. Voice calls, verbal agreements, implied consent, or ambiguous expressions do not constitute valid authorization.
 
-多个作者
-如果作品是由多个作者创作的，所有作者共同保留专有的商业权利。未经所有其他作者的明确书面同意，任何一位作者不得授予商业授权。版权转让时，受让人承担转让方在本许可证项下的所有权利和义务。
+Multiple Authors
+If the work is created by multiple authors, all authors jointly retain the exclusive commercial rights. No single author may grant commercial authorization without the explicit written consent of all other authors. In the event of copyright transfer, the transferee assumes all rights and obligations of the transferor under this license.
 
 Contributor Rights
 - A contributor who creates new content (such as additional code, libraries, or independently created modules) may license their own new content under a license of their choice, as provided for in the Copyleft Requirement section.
@@ -220,7 +220,7 @@ NCL 为通用许可证框架，未预设适用法律。强烈建议作者通过 
   * 署名必须足以让普通观众识别原作品及其作者。
 
 源码压缩包特别规定：
--分发源码压缩包时，完整的许可证文件必须包含在压缩包根目录。
+- 分发源码压缩包时，完整的 LICENSE 文件必须包含在压缩包根目录。
 - 被许可人不得以任何方式移除、修改或遮挡许可证文件。
 - 任何未包含完整 LICENSE 文件的源码压缩包分发行为均属违反本许可证。
 
@@ -253,7 +253,7 @@ NCL 为通用许可证框架，未预设适用法律。强烈建议作者通过 
 商业使用的定义
 为本许可证之目的，"商业使用"指任何主要旨在获取商业优势或金钱报酬的使用行为。包括但不限于：
 - 直接销售或授权软件
--将软件作为付费服务提供(SaaS、API、托管）
+- 将软件作为付费服务提供（SaaS、API、托管）
 - 在组织内部使用软件以支持创收活动
 - 通过软件获取广告或赞助收入
 - 将软件与付费产品或服务捆绑
@@ -269,10 +269,10 @@ NCL 为通用许可证框架，未预设适用法律。强烈建议作者通过 
 
 Copyleft 要求
 任何修改版本必须以本许可证（NCL）或与 NCL 非商业条款完全兼容的许可证发布。为明确起见：
--允许商业使用的许可证（包括但不限于GPL、MIT、Apache、BSD、MPL)与NCL不兼容.
--修改作品只能以NCL或其他包含相同非商业限制的许可证分发.
+- 允许商业使用的许可证（包括但不限于 GPL、MIT、Apache、BSD、MPL）与 NCL 不兼容。
+- 修改作品只能以 NCL 或其他包含相同非商业限制的许可证分发。
 - 如果修改者添加了自有新增内容（如额外代码、库或独立创建的模块），这些新增部分可以选择以修改者自行指定的许可证发布，但必须满足以下条件：
--原有NCL许可部分仍保留NCL许可
+  - 原有 NCL 许可部分仍保留 NCL 许可
   - NCL 许可证文本本身不得修改
   - 衍生作品整体必须清晰标明哪些部分受 NCL 管辖，哪些部分受其他许可证管辖
 
